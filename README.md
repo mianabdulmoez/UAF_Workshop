@@ -1,6 +1,2 @@
 # UAF_Workshop
-It is workshop on Python for Datascience
-
-
-
-\jr;;dlfp
+This was a Hackathon on Python for Datascience.
